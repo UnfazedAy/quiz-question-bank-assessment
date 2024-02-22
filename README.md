@@ -19,8 +19,8 @@ This project is build using **Python Django** Framework.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/ilyasbabu/question-bank-management-system.git
-cd question-bank-management-system
+git clone https://github.com/UnfazedAy/quiz-question-bank-assessment.git
+cd quiz-question-bank-assessment
 ```
 
 ### Install dependencies
@@ -60,7 +60,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-# Quiz Bank
+## Quiz Bank API Documentation
 
 A simple quiz question bank API which contains simple CRUD operations on Questions, options and answers.
 
@@ -88,8 +88,6 @@ Takes a raw body content and creates the question, options and answer associated
 }
 
 ```
-
-## Documentation
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 
